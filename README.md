@@ -6,3 +6,7 @@ A simple website which simulates 2 dices .
 HTML   
 CSS  
 JavaScript
+
+# Deployment:
+
+https://tanishqj-19.github.io/Multiplayer-Dice-Game/
